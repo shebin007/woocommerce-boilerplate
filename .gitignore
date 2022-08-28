@@ -24,4 +24,4 @@ node_modules/
 
 
 # ignore wp-config file
-!wp-config.php
+wp-config.php
